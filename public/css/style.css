@@ -1,0 +1,63 @@
+
+/* navigation bar styling  */
+.img-style1{
+    height: 45px;
+    width: 45px;
+}
+.img-style2{
+    height: 70vh;
+    width: 40vw;
+}
+.nav_bar{
+    margin-left: 5.5rem;
+    font-size: 2rem;
+}
+.box-1{
+    height: 85vh;
+}
+.first_header_section{
+    padding: 8%;
+}
+
+/* primary section styling  */
+.first-primary-section{
+    text-align: center;
+    line-height: 3;
+}
+.image-fluid{
+    height: 50px;
+    width: 50px;
+}
+
+/* secondary section styling  */
+.secondary-section{
+    margin-top: 8rem;
+}
+.wide-space-content{
+    padding: 7% 15%;
+}
+.btn-magic button{
+    text-align: left;
+    border: 1px solid indianred;
+    padding: 1rem 2rem;
+    font-size: 1rem;
+    border-radius: 15px;
+    margin-bottom: 3%;
+    background: linear-gradient(90deg, rgba(26,23,77,1) 0%, rgba(23,23,188,1) 28%, rgba(0,212,255,1) 100%);
+}
+.font-awsm-style{
+    color: aliceblue;
+    font-size: 2rem;
+    transform: translateY(15px);
+}
+.color-white{
+    color: white;
+}
+
+/* ternary section styling  */
+#join-section{
+    background-color:rgb(132, 168, 168);
+}
+.pad-element{
+    padding:7% 21%;
+}
